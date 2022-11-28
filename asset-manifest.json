@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/antenna_map_HBA/static/css/main.e5c4ef15.css",
+    "main.js": "/antenna_map_HBA/static/js/main.3e0ee859.js",
+    "static/js/27.aa04030a.chunk.js": "/antenna_map_HBA/static/js/27.aa04030a.chunk.js",
+    "index.html": "/antenna_map_HBA/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e5c4ef15.css",
+    "static/js/main.3e0ee859.js"
+  ]
+}
